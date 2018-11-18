@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,yBACE,kBACA,WAAa,CAGf,yBACE,uBAAyB","file":"static/css/main.8da90539.css","sourcesContent":[".App {\n  text-align: center;\n  color: green;\n}\n\n.test {\n  border: 1px solid orange;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
